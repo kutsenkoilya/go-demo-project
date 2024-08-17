@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"application"
+	"github.com/kutsenkoilya/go-demo-project/application"
 )
 
 func main() {
